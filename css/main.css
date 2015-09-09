@@ -1,0 +1,120 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1;
+	color: black;
+	background-color: antiquewhite;
+	
+}
+
+.container{
+    background-color: ;
+    max-width: 800px;
+    min-width: 320px;
+    margin: 0 auto;   
+}
+
+header{
+background-color: #ddd;
+ width: 100%;
+    float: left;
+    margin-bottom: 5px;
+    padding: 4px;
+    height: auto;
+
+}
+
+div .photo img{
+    float: left;
+    background-color: #ddd;
+    border-radius: 100px;
+    border: 2px #FF0000 solid;
+    margin-left: 10px;
+        
+}
+
+.nom-fonction{
+    float: right;
+    }
+
+div .nom-fonction h2{
+    color: #000;
+    float: right;
+    border-bottom: 1px solid #ccc;
+    
+    
+}
+
+
+
+div .nom-fonction h4{
+    color: brown;
+    float: right;
+    
+}
+
+nav{
+    background-color: darkblue;
+    height: auto;
+    float: left;
+     width: 100%;
+    color: white;
+    
+}
+
+nav .menus_a{
+    float: left;
+    width: 44%;
+    height: auto;
+  
+}
+
+nav .menus_b{
+    float: left;
+    width: 25%;
+    height: auto;
+  
+}
+
+nav .menus_c{
+    float: left;
+    width: 27%;
+    height: auto;
+  }
+
+
+main{
+background-color: darkblue;
+    width: 100%;
+    float: left;
+}
+article,footer {
+width: 100%;
+    float: left;
+}
+
+article .titres, footer .contacts{
+width: auto;
+    background-color: cornflowerblue ;
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 14px;
+    padding-left: 4px;
+    
+}
+.contenu{
+  padding: 4px;
+}
+.contenu ul li{
+color:white;
+}
+
+.contenu-contacts{
+width: 100%;
+    background-color: coral;
+    color:white;
+    float: left;
+    height: auto;
+    padding: 4px;
+    margin: auto auto;
+}
